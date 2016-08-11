@@ -1,4 +1,4 @@
-# Aerial-Training
+# Aerial Training
 
 To install :
 
